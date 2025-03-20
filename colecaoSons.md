@@ -8,12 +8,10 @@
 <h4>Nicolli Venino</h4>
 
 <h2>Som 1: som no botão "Jogar"</h2>
-<audio controls>
-    <source src = "assets/somBotaoJogar.mp3" type = "audio/mpeg">
- </audio>
+[Ouça o áudio](assets/somBotaoJogar.mp3)
 
 
-<h2>Som 2: </h2>
+<h2>Som 2: som nos botões "Pular tutorial" e "Continuar"</h2>
 
 <h2>Som 3: </h2>
 
