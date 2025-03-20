@@ -8,7 +8,7 @@
 <h4>Nicolli Venino</h4>
 
 <h2>Som 1: som no botão "Jogar"</h2>
-<audio controls src="somBotaoJogar.mp3" title="Title"></audio>
+[Ouça o áudio clicando aqui](https://drive.google.com/file/d/1hQFC5pVdqw617H8M5wLIWrMQGPIt92sz/view?usp=sharing)
 
 <h2>Som 2: som nos botões "Pular tutorial" e "Continuar"</h2>
 
