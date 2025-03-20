@@ -9,7 +9,7 @@
 
 <h2>Som 1: som no botão "Jogar"</h2>
 <audio controls>
-    <source src = "assets/somBotaoJogar.mp3"></source>
+    <source src = "assets/somBotaoJogar.mp3" type = "audio/mpeg">
  </audio>
 
 
