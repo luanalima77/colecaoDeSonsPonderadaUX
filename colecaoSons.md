@@ -8,7 +8,9 @@
 <h4>Nicolli Venino</h4>
 
 <h2>Som 1: som no botão "Jogar"</h2>
-[Ouça o áudio](assets/somBotaoJogar.mp3)
+<audio controls>
+    <source src = "https://github.com/luanalima77/colecaoDeSonsPonderadaUX/blob/main/assets/somBotaoJogar.mp3" type = "audio/mpeg">
+</audio>
 
 
 <h2>Som 2: som nos botões "Pular tutorial" e "Continuar"</h2>
