@@ -8,9 +8,10 @@
 <h4>Nicolli Venino</h4>
 
 <h2>Som 1: som no botão "Jogar"</h2>
-<a href = "https://drive.google.com/file/d/1hQFC5pVdqw617H8M5wLIWrMQGPIt92sz/view?usp=sharing" target = "_blank">Ouça o áudio clicando aqui!</a>
+<a href = "https://drive.google.com/file/d/1hQFC5pVdqw617H8M5wLIWrMQGPIt92sz/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 
 <h2>Som 2: som nos botões "Pular tutorial" e "Continuar"</h2>
+<a href = "https://drive.google.com/file/d/1CmhzvZDHqNDnyOqGY8DNLVBAR0uWa_cO/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 
 <h2>Som 3: </h2>
 
