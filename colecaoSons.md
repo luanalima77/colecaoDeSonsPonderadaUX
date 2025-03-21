@@ -40,7 +40,7 @@
 
 <h2>Som 6: som habilitado quando os alvos do jogo são clicados</h2>
 <a href = "https://drive.google.com/file/d/17g-krBlk81rTzi-duVFOyEfhnxH6XU7U/view?usp=sharing">Ouça o áudio clicando aqui!</a>
-<h3>Referência do áudio: </h3>
+<h3>Referência do áudio: canal do YouTube chamado SOUNDS. Título do vídeo: EFEITO SONORO - GATO MIANDO </h3>
 <h3>Descrição e justificativa</h3>
 <p>Efeito sonoro que será ativado no momento em que o gato abater um alvo, a fim de tornar a sensação de caça mais realista e fácil de ser compreendida pelo usuário. </p>
 
