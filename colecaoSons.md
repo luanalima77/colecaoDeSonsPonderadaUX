@@ -23,14 +23,14 @@
 <a href = "https://drive.google.com/file/d/1S7ec3bwp84ikFnf3YJEm72tkypAS9bdb/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay</h3>
 <h3>Descrição e justificativa</h3>
-<p> </p>
+<p>Esse som diz respeito à tela de transição com os splashes de tinta. Nesse sentido, esse som foi escolhido justamente porque remete à criação de splashes de tinta.</p>
 
 
 <h2>Som 4: som para mostrar as estrelas na tela de vitória </h2>
 <a href = "https://drive.google.com/file/d/1r70VpueBP2AjGqV6dJNRPWkxYdkcudnU/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay</h3>
 <h3>Descrição e justificativa</h3>
-<p> </p>
+<p>Esse som está diretamente relacionado com as estrelas que aparecem na tela de vitória do jogo. À medida que cada estrela for aparecendo, esse som vai sendo tocado. Portanto, ele foi escolhido para essa funcionalidade por produzir uma sensação alegre, o que é válido quando se trata em vitória em um jogo. </p>
 
 <h2>Som 5: som do rato robô (alvo)</h2>
 <a href = "https://drive.google.com/file/d/1jG39sa7Sp_wuA251Blk7ZV649-BVRxDw/view?usp=sharing">Ouça o áudio clicando aqui!</a>
