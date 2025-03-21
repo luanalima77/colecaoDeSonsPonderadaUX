@@ -42,25 +42,25 @@
 <a href = "https://drive.google.com/file/d/17g-krBlk81rTzi-duVFOyEfhnxH6XU7U/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: </h3>
 <h3>Descrição e justificativa</h3>
-<p> </p>
+<p>Efeito sonoro que será ativado no momento em que o gato abater um alvo, a fim de tornar a sensação de caça mais realista e fácil de ser compreendida pelo usuário. </p>
 
 <h2>Som 7: som para o botão de pause</h2>
 <a href = "https://drive.google.com/file/d/1a9IE5oRrw8p2ieAZE3skzfCzye1Pfz_o/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay</h3>
 <h3>Descrição e justificativa</h3>
-<p> </p>
+<p>O som será ativado quando o usuário clicar no botão de pause para parar o fluxo do jogo por um momento. </p>
 
 <h2>Som 8: som do pombo (alvo)</h2>
 <a href = "https://drive.google.com/file/d/1zc9hjtwP67aTXE6p84U2f_sS9yQG1Fe5/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay</h3>
 <h3>Descrição e justificativa</h3>
-<p> </p>
+<p>Efeito sonoro que simula o som de um pombo e que será audível quando o gato abater o alvo pombo na primeira fase. O argumento que justifica a escolha deste áudio é o fato dele tornar a experiência do usuário mais próxima da realidade, de modo que os instintos de caça do gato sejam, mais facilmente, ativados.</p>
 
 <h2>Som 9: som da lagartixa (alvo)</h2>
 <a href = "https://drive.google.com/file/d/1voUqdXlqM8OblkZLPvJhVY2d1bxRQalx/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay </h3>
 <h3>Descrição e justificativa</h3>
-<p> </p>
+<p>Efeito sonoro que representa o som de uma lagartixa. O som irá aparecer quando o gato bater e acertar o alvo lagartixa em uma das fases, tornando, assim, a jogabilidade mais realista ao gato.</p>
 
 <h2>Som 10: </h2>
 <h3>Referência do áudio: </h3>
