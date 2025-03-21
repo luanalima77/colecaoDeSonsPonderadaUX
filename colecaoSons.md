@@ -17,7 +17,7 @@
 <a href = "https://drive.google.com/file/d/1CmhzvZDHqNDnyOqGY8DNLVBAR0uWa_cO/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay</h3>
 <h3>Descrição e justificativa</h3>
-<p> </p>
+<p>Este som se refere aos botões "Pular tutorial" e "Continuar", sendo ativado quando estes forem clicados. Tal escolha foi efetuada porque esse som lembra o de início de largada de corridas em jogos (se ele for ouvido três vezes seguidas, fica mais fácil de identificar esse ponto). Dessa forma, a ideia é transmitir que o jogo irá, efetivamente, começar.</p>
 
 <h2>Som 3: som do splash de tinta</h2>
 <a href = "https://drive.google.com/file/d/1S7ec3bwp84ikFnf3YJEm72tkypAS9bdb/view?usp=sharing">Ouça o áudio clicando aqui!</a>
