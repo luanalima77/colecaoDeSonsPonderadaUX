@@ -48,24 +48,24 @@
 <a href = "https://drive.google.com/file/d/1a9IE5oRrw8p2ieAZE3skzfCzye1Pfz_o/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay</h3>
 <h3>Descrição e justificativa</h3>
-<p>O som será ativado quando o usuário clicar no botão de pause para parar o fluxo do jogo por um momento. </p>
+<p>O som será ativado quando o usuário clicar no botão de pause para parar o fluxo do jogo por um momento, tendo uma sensação mais animada para trazer uma ambientação mais acolhedora ao usuário. </p>
 
 <h2>Som 8: som do pombo (alvo)</h2>
 <a href = "https://drive.google.com/file/d/1zc9hjtwP67aTXE6p84U2f_sS9yQG1Fe5/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay</h3>
 <h3>Descrição e justificativa</h3>
-<p>Efeito sonoro que simula o som de um pombo e que será audível quando o gato abater o alvo pombo na primeira fase. O argumento que justifica a escolha deste áudio é o fato dele tornar a experiência do usuário mais próxima da realidade, de modo que os instintos de caça do gato sejam, mais facilmente, ativados.</p>
+<p>Efeito sonoro que representa o som de um pombo. Esse som será tocado quando o alvo de pombo estiver aparecendo na tela (ou seja, quando ele ainda não tiver sido clicado). O argumento que justifica essa escolha é o fato dela tornar a experiência do usuário mais próxima da realidade, de modo que os instintos de caça do gato sejam, mais facilmente, ativados.</p>
 
 <h2>Som 9: som da lagartixa (alvo)</h2>
 <a href = "https://drive.google.com/file/d/1voUqdXlqM8OblkZLPvJhVY2d1bxRQalx/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay </h3>
 <h3>Descrição e justificativa</h3>
-<p>Efeito sonoro que representa o som de uma lagartixa. O som irá aparecer quando o gato bater na tela e acertar o alvo lagartixa em uma das fases, tornando, assim, a jogabilidade mais realista ao gato.</p>
+<p>Efeito sonoro que representa o som de uma lagartixa. O som irá ser tocado quando o alvo de lagartixa estiver aparecendo na tela (ou seja, quando ele ainda não tiver sido clicado). A justificativa é que esse som representa efetivamente o alvo, tornando a experiência mais realista.</p>
 
-<h2>Som 10: som da lagartixa (alvo)</h2>
+<h2>Som 10: som da cobra (alvo)</h2>
 <a href = "https://drive.google.com/file/d/1Kei3Ft5Esq5iGarGQCAaaRvGc-NcH3Jb/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay</h3>
 <h3>Descrição e justificativa</h3>
-<p>Efeito sonoro que representa o som de uma cobra. Ele será tocado quando o gato bater na tela e acertar o alvo cobra em uma das fases, associando o toque ao som do animal.</p>
+<p>Efeito sonoro que representa o som de uma cobra. Esse som será tocado quando o alvo de cobra estiver aparecendo na tela (ou seja, quando ele ainda não tiver sido clicado. A justificativa para a escolha supracitada é similar a dos outros alvos: associação do toque ao som do animal, tornando a experiência de jogo mais realista.</p>
 
 <h2>Vídeo demonstrativo</h2>
