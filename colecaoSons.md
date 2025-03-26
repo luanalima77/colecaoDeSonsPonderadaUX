@@ -60,11 +60,12 @@
 <a href = "https://drive.google.com/file/d/1voUqdXlqM8OblkZLPvJhVY2d1bxRQalx/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay </h3>
 <h3>Descrição e justificativa</h3>
-<p>Efeito sonoro que representa o som de uma lagartixa. O som irá aparecer quando o gato bater e acertar o alvo lagartixa em uma das fases, tornando, assim, a jogabilidade mais realista ao gato.</p>
+<p>Efeito sonoro que representa o som de uma lagartixa. O som irá aparecer quando o gato bater na tela e acertar o alvo lagartixa em uma das fases, tornando, assim, a jogabilidade mais realista ao gato.</p>
 
-<h2>Som 10: </h2>
-<h3>Referência do áudio: </h3>
+<h2>Som 10: som da lagartixa (alvo)</h2>
+<a href = "https://drive.google.com/file/d/1Kei3Ft5Esq5iGarGQCAaaRvGc-NcH3Jb/view?usp=sharing">Ouça o áudio clicando aqui!</a>
+<h3>Referência do áudio: Pixabay</h3>
 <h3>Descrição e justificativa</h3>
-<p> </p>
+<p>Efeito sonoro que representa o som de uma cobra. Ele será tocado quando o gato bater na tela e acertar o alvo cobra em uma das fases, associando o toque ao som do animal.</p>
 
 <h2>Vídeo demonstrativo</h2>
