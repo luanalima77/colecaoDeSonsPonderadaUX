@@ -23,7 +23,7 @@
 <a href = "https://drive.google.com/file/d/1gPphHf9Bf2M0zXkBwolhKrlN3duKKy8_/view?usp=sharing">Ouça o áudio clicando aqui!</a>
 <h3>Referência do áudio: Pixabay</h3>
 <h3>Descrição e justificativa</h3>
-<p>Esse som diz respeito à tela de transição com os splashes de tinta. Nesse sentido, esse som foi escolhido justamente porque remete à criação de splashes de tinta.</p>
+<p>Esse som diz respeito ao toque do gato nos alvos que aparecem no modo criativo. Essa escolha foi efetuada porque o splash remete à pintura na tela (que é autoral do gato nesse momento), principal funcionalidade do modo criativo. Assim, a ideia é transmitir a sensação de que o gato está realizando, de fato, sua obra de arte.</p>
 
 
 <h2>Som 4: som para mostrar as estrelas na tela de vitória </h2>
