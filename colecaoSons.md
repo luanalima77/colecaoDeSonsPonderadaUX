@@ -34,7 +34,7 @@
 
 <h2>Som 5: som do rato robô (alvo)</h2>
 <a href = "https://drive.google.com/file/d/1uTRUH26MD3fgOZTo6HSk6UJkQJMfEGqm/view?usp=sharing">Ouça o áudio clicando aqui!</a>
-<h3>Referência do áudio: </h3>
+<h3>Referência do áudio: Pixabay</h3>
 <h3>Descrição e justificativa</h3>
 <p>Efeito sonoro que representa o som de um rato (que é um robozinho). Esse som será tocado quando ele estiver aparecendo na tela (ou seja, quando ele ainda não tiver sido clicado). Essa escolha foi realizada pelo fato de que ele representa efetivamente o som de um rato com uma "chave" em cima, de modo a chamar a atenção do jogador</p>
 
