@@ -7,7 +7,7 @@
 <h4>Luiz Hinuy</h4>
 <h4>Nicolli Venino</h4> <br> <br>
 
-<p>Observação: todos os áudios e o vídeo demonstrativo foram colocado no Google Drive para uma melhor organização. Os áudios também estão na pasta assets deste repositório. Não foi possível colocar o vídeo nessa pasta porque ele ultrapassa o limite de tamanho do GitHhub. Então, ele está só no Drive mesmo. Por fim, todos os links estão disponibilizados nas seções abaixo.</p>
+<p>Observação: todos os áudios e o vídeo demonstrativo foram colocado no Google Drive para uma melhor organização. Os áudios também estão na pasta assets deste repositório. Não foi possível colocar o vídeo nessa pasta porque ele ultrapassa o limite de tamanho do GitHhub. Então, ele está só no Drive mesmo. Por fim, todos os links estão disponibilizados nas seções abaixo.</p> <br>
 
 <h2>Som 1: som no botão "Jogar"</h2>
 <a href = "https://drive.google.com/file/d/1hQFC5pVdqw617H8M5wLIWrMQGPIt92sz/view?usp=sharing">Ouça o áudio clicando aqui!</a>
